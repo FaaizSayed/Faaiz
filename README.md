@@ -34,6 +34,6 @@ The dynamic nature of web development inspires me to stay updated with the lates
 
 I'm open to collaboration, discussions, and sharing knowledge. Feel free to explore my projects, raise issues, or reach out for any questions or opportunities. Let's build something amazing together! 🚀
 
-Connect with me on [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/sayed-faaiz-shah-31050823b/))
+Connect with me on [LinkedIn]([LinkedIn Profile Link](https://www.linkedin.com/in/sayed-faaiz-shah-31050823b/))
 
 🚀✨
