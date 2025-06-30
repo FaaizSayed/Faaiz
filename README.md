@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Faaiz Sayed, a seasoned Front-End Developer with over 6 years of experience in crafting immersive and user-friendly web experiences with web accessibility knowledge. 🚀
+# Hi there! 👋 I'm Faaiz Sayed, a seasoned Front-End Developer with over 8 years of experience in crafting immersive and user-friendly web experiences with web accessibility knowledge. 🚀
 
 ## About Me
 I thrive on turning innovative ideas into reality through clean and efficient code. My passion lies in creating visually appealing and responsive web applications that not only meet but exceed user expectations.
@@ -9,8 +9,8 @@ I thrive on turning innovative ideas into reality through clean and efficient co
 - **Web Accessibility:** WCAG Guidelines, ARIA, Section 508
 - **Responsive Design:** Ensuring seamless experiences across various devices
 - **HTML5 & CSS3:** Pixel-perfect markup and styling
-- **Build Tools:** Webpack, Babel
-- **Version Control:** Git, GitHub
+- **Build Tools:** Webpack, Babel, npm, yarn, pnpm
+- **Version Control:** Git, GitHub, Gitlab
 
 ## 🚀 Key Skills
 - **JavaScript Mastery:** Leveraging the latest features and best practices to build robust and scalable applications.
